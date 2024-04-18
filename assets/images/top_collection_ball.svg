@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 597 318" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-1455.88,-1656.3)">
+        <g id="haut-pokéball" serif:id="haut pokéball">
+        </g>
+        <g id="bas-pokéball" serif:id="bas pokéball">
+        </g>
+        <g id="haut-pokéball1" serif:id="haut pokéball" transform="matrix(1,0,0,1,1044.58,-367.46)">
+            <g transform="matrix(1.61046,0,0,1.61046,-1394.46,-1163.52)">
+                <path d="M1135.26,2162.16C1136.35,2068.67 1212.59,1993.11 1306.34,1993.11C1400.09,1993.11 1476.33,2068.67 1477.43,2162.16L1135.26,2162.16Z" style="fill:rgb(255,53,51);"/>
+                <path d="M1127.5,2162.07C1128.64,2064.34 1208.34,1985.34 1306.34,1985.34C1404.35,1985.34 1484.05,2064.34 1485.19,2162.07L1485.28,2169.93L1127.4,2169.93L1127.5,2162.07ZM1135.26,2162.16L1477.43,2162.16C1476.33,2068.67 1400.09,1993.11 1306.34,1993.11C1212.59,1993.11 1136.35,2068.67 1135.26,2162.16Z"/>
+            </g>
+            <g transform="matrix(1,0,0,1,-682.74,33.0973)">
+                <path d="M1132.07,2197.42C1122.22,2226.4 1116.62,2255.71 1116.57,2285.46L1148.96,2285.46C1130.15,2268.54 1133.03,2234.79 1132.07,2197.42Z" style="fill:rgb(205,41,51);"/>
+            </g>
+            <g transform="matrix(1.57235,0,0,1.72379,-1532.76,-1466.51)">
+                <path d="M1520.75,2075.26C1502.96,2063.12 1468.22,2050.17 1476.63,2064.89C1485.05,2079.62 1529.22,2105.56 1546.05,2110.47C1562.88,2115.38 1544.2,2091.26 1520.75,2075.26Z" style="fill:rgb(255,110,109);"/>
+            </g>
+            <g transform="matrix(0.938915,0.344149,-0.295615,0.806504,13.0671,-72.0214)">
+                <ellipse cx="1444.59" cy="2045.54" rx="14.54" ry="14.002" style="fill:rgb(255,110,109);"/>
+            </g>
+        </g>
+        <g id="bas-pokéball1" serif:id="bas pokéball">
+        </g>
+    </g>
+</svg>
